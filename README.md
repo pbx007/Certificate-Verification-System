@@ -1,2 +1,2 @@
 # Certificate-Verification-System
-This is my Certificate Verification System for Zidio Internship
+This is my Certificate Verification Project for Zidio Internship
